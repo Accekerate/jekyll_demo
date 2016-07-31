@@ -1,2 +1,4 @@
 # Accekerate.github.io
-创建博客
+  Welcome to my blog！
+   Here are some technology passages.
+    
